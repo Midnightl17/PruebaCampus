@@ -1,0 +1,48 @@
+.icono{
+    font-size: 30px;
+}
+
+.hero{
+    margin-bottom: 50px;
+}
+
+.hero-principal img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 15px;
+}
+
+
+
+.seccion-oscura{
+    height: 300px;
+    margin-top: 100px;
+    background-color: #212529;
+    color: aliceblue;
+}
+
+
+
+.formulario {
+    height: 500px;
+}
+
+
+
+.seccion-oscura-cosas {
+    height: 400px;
+    margin-top: 100px;
+    background-color: #212529;
+    color: aliceblue;
+}
+
+.caucho{
+    height: 600px;
+
+}
+.seccion-oscura-puntos{
+    height: 400px;
+    margin-top: 100px;
+    background-color: #212529;
+    color: aliceblue;
+}
